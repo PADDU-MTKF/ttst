@@ -12,9 +12,9 @@ IT AND THEN RUN THE MAIN.PY
 '''
 #If you are testing the bot then make the below line True (1 hr will be taken as 5 sec)
 #else let it be False
-TEST_VALUE = False
+TEST_VALUE = True
 
-BOT_API_KEY = " "
+BOT_API_KEY = "5081183006:AAED-dYC2cN5veRtQtgeFcK8_SM1IY9w47U"
 
 #Give only name that is after https://t.me/
 CHANNEL_LINK= "ttmmpp_paddu_4"
